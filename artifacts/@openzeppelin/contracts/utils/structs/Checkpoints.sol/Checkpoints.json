@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Checkpoints",
+  "sourceName": "@openzeppelin/contracts/utils/structs/Checkpoints.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "CheckpointUnorderedInsertion",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212208f08ac1c5a58ef0dcc61ff5a981ce5ccccf4ca439f5a1432a4cbc4dee782bd3664736f6c63430008140033",
+  "deployedBytecode": "0x600080fdfea26469706673582212208f08ac1c5a58ef0dcc61ff5a981ce5ccccf4ca439f5a1432a4cbc4dee782bd3664736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
